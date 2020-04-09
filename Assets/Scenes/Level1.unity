@@ -423,7 +423,7 @@ GameObject:
   - component: {fileID: 745545439}
   - component: {fileID: 745545440}
   m_Layer: 0
-  m_Name: Circles L1
+  m_Name: Circles L1 (PAYER)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
